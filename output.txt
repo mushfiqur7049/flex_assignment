@@ -1,0 +1,210 @@
+#include<stdio.h> is a Header File
+newline
+int add(int w.....) is a Parameterized Returntype Function
+)newline
+{ is a Single Bracket Open
+newline
+int is a Keyword
+ val is a Variable
+= is a Assignment Opetator
+0 is a Positive Digit
+; is a Token
+newline
+if() is a Conditional Statement
+w is a Variable
+!= is a NotEqual Opetator
+0 is a Positive Digit
+ && is an  And  Opetator
+ q is a Variable
+!= is a NotEqual Opetator
+0 is a Positive Digit
+)newline
+val is a Variable
+= is a Assignment Opetator
+w is a Variable
++ is a Add Opetator
+q is a Variable
+; is a Token
+newline
+newline
+if() is a Conditional Statement
+w is a Variable
+== is a Equal Opetator
+0 is a Positive Digit
+ || is an Or Opetator
+ q is a Variable
+== is a Equal Opetator
+0 is a Positive Digit
+)newline
+val is a Variable
+-= is a Substraction And Assignment Opetator
+1 is a Positive Digit
+; is a Token
+newline
+newline
+return is Return a Value
+ val is a Variable
+; is a Token
+newline
+} is a Single Bracket Close
+newline
+/*comment line*/ is a comment line
+
+newline
+int is a Keyword
+ main() is a Main Function
+{ is a Single Bracket Open
+newline
+int is a Keyword
+ a is a Variable
+, is a Token
+b is a Variable
+, is a Token
+c is a Variable
+= is a Assignment Opetator
+10 is a Positive Digit
+; is a Token
+newline
+int is a Keyword
+ arr[100] Is an Array
+; is a Token
+newline
+newline
+scanf() is a Scanf Function
+"%d is a Integer Identifier
+ %d is a Integer Identifier
+", is a Token
+&a is an Input Specifier
+, is a Token
+&b is an Input Specifier
+); is a Token
+newline
+int is a Keyword
+ x is a Variable
+= is a Assignment Opetator
+add(int a.....) is a Parameterized Non Returntype function
+, is a Token
+int is a Keyword
+ b)) is  NonPerameterized NON Returntype Function
+
+; is a Token
+newline
+printf() is a Print Function
+"%d is a Integer Identifier
+", is a Token
+x)) is  NonPerameterized NON Returntype Function
+
+; is a Token
+newline
+if() is a Conditional Statement
+x is a Variable
+> is a Greater Than Opetator
+0 is a Positive Digit
+)newline
+{ is a Single Bracket Open
+newline
+printf() is a Print Function
+"Positive value" is a Message Print
+
+); is a Token
+newline
+break is a Statement
+; is a Token
+newline
+} is a Single Bracket Close
+newline
+else if() is a Conditional Statement
+x is a Variable
+< is a Lesser Than  Opetator
+0 is a Positive Digit
+)newline
+printf() is a Print Function
+"Negative value" is a Message Print
+
+); is a Token
+newline
+int is a Keyword
+ i is a Variable
+; is a Token
+newline
+for() is a For Loop
+i is a Variable
+= is a Assignment Opetator
+0 is a Positive Digit
+; is a Token
+i is a Variable
+< is a Lesser Than  Opetator
+2 is a Positive Digit
+; is a Token
+i is a Variable
+++ is a Increment Opetator
+)newline
+{ is a Single Bracket Open
+newline
+printf() is a Print Function
+"For Loop" is a Message Print
+
+); is a Token
+newline
+continue is a Statement
+; is a Token
+newline
+} is a Single Bracket Close
+newline
+while() is a While Loop
+! is a Not Opetator
+c)) is  NonPerameterized NON Returntype Function
+
+newline
+{ is a Single Bracket Open
+newline
+printf() is a Print Function
+"Hello World" is a Message Print
+
+); is a Token
+newline
+c is a Variable
+-- is a Decrement Opetator
+; is a Token
+newline
+} is a Single Bracket Close
+newline
+int is a Keyword
+ m1 is a Variable
+, is a Token
+m2 is a Variable
+= is a Assignment Opetator
+1 is a Positive Digit
+, is a Token
+m3 is a Variable
+; is a Token
+newline
+scanf() is a Scanf Function
+"%d is a Integer Identifier
+", is a Token
+&m1 is an Input Specifier
+); is a Token
+newline
+m2 is a Variable
++= is a Summation And Assignment Opetator
+m1 is a Variable
+; is a Token
+newline
+newline
+m2 is a Variable
+*= is a Multiplication And Assignment Opetator
+m1 is a Variable
+; is a Token
+newline
+newline
+m2 is a Variable
+/= is a Division And Assignment Opetator
+m1 is a Variable
+; is a Token
+newline
+newline
+return 0 Returns From The Program
+; is a Token
+newline
+} is a Single Bracket Close
+newline

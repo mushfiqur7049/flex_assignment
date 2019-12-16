@@ -1,0 +1,48 @@
+#include<stdio.h>
+int add(int w)
+{
+int val=0;
+if(w!=0 && q!=0)
+val=w+q;
+
+if(w==0 || q==0)
+val-=1;
+
+return val;
+}
+/*comment line*/
+int main(){
+int a,b,c=10;
+int arr[100];
+
+scanf("%d %d",&a,&b);
+int x=add(int a,int b);
+printf("%d",x);
+if(x>0)
+{
+printf("Positive value");
+break;
+}
+else if(x<0)
+printf("Negative value");
+int i;
+for(i=0;i<2;i++)
+{
+printf("For Loop");
+continue;
+}
+while(!c)
+{
+printf("Hello World");
+c--;
+}
+int m1,m2=1,m3;
+scanf("%d",&m1);
+m2+=m1;
+
+m2*=m1;
+
+m2/=m1;
+
+return 0;
+}
